@@ -10,4 +10,4 @@
 
 
 </head>
-Hello ${name}
+Hello ${student.name}, ${student.id}
